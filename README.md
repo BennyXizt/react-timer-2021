@@ -1,3 +1,12 @@
+# React Timer
+
+A simple React timer with Lap, Best Lap, and color palette switch features.
+
+🌐 **Deployed on GitHub Pages:**  
+[https://bennyxizt.github.io/react-timer-2021](https://bennyxizt.github.io/react-timer-2021)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
