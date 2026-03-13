@@ -2,7 +2,7 @@
   "name": "timer",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://{username}.github.io/{repository-name}",
+  "homepage": "https://bennyxizt.github.io/react-timer-2021/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^11.2.7",
@@ -10,7 +10,7 @@
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
