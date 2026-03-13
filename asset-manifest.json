@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%7Brepository-name%7D/static/css/main.8464f8eb.css",
-    "main.js": "/%7Brepository-name%7D/static/js/main.e8431d8c.js",
-    "index.html": "/%7Brepository-name%7D/index.html",
-    "main.8464f8eb.css.map": "/%7Brepository-name%7D/static/css/main.8464f8eb.css.map",
-    "main.e8431d8c.js.map": "/%7Brepository-name%7D/static/js/main.e8431d8c.js.map"
+    "main.css": "/react-timer-2021/static/css/main.8464f8eb.css",
+    "main.js": "/react-timer-2021/static/js/main.e8431d8c.js",
+    "index.html": "/react-timer-2021/index.html",
+    "main.8464f8eb.css.map": "/react-timer-2021/static/css/main.8464f8eb.css.map",
+    "main.e8431d8c.js.map": "/react-timer-2021/static/js/main.e8431d8c.js.map"
   },
   "entrypoints": [
     "static/css/main.8464f8eb.css",
